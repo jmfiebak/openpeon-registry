@@ -3180,7 +3180,7 @@
     {
       "name": "postal2_pl",
       "display_name": "Postal 2 (Polish)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Sounds from Postal 2 (Polish), mostly Dude.",
       "author": {
         "name": "deoomen",
@@ -3202,9 +3202,9 @@
       "sound_count": 25,
       "total_size_bytes": 3977010,
       "source_repo": "deoomen/openpeon-postal2_pl",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "04de464f92ab48d46feaceff42ee046ad243b05a720b40ff0f1b19d6e7876db3",
+      "manifest_sha256": "e93d9bc3e100ce7e3bb5adc5a35d20fcee33e375b1cf76ab7556858bd0e79825",
       "tags": [
         "gaming",
         "hardcore",

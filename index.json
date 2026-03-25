@@ -4172,6 +4172,31 @@
       "updated": "2026-03-24"
     },
     {
+      "name": "jan_pawel_2",
+      "display_name": "Jan Pawel 2",
+      "version": "1.0.2",
+      "description": "Jan Pawel 2, the greatest Pole of all time.",
+      "author": { "name": "Pan Jawel", "github": "pan-jawel" },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.complete",
+        "task.error",
+        "input.required"
+      ],
+      "language": "pl",
+      "license": "personal-use",
+      "sound_count": 12,
+      "source_repo": "pan-jawel/openpeon-jp2",
+      "source_ref": "v1.0.2",
+      "source_path": ".",
+      "manifest_sha256": "81ec74e12ff170988291acc77d5e16869d6f6c94cb7c92c871e0b567f3d6bf17",
+      "tags": ["polish"],
+      "preview_sounds": ["badzmy-lagodni.mp3", "co-mam-robic.mp3"],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
       "name": "jarvis",
       "display_name": "J.A.R.V.I.S.",
       "version": "1.0.0",
@@ -6603,6 +6628,48 @@
       ],
       "added": "2026-03-01",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "pokemon-gen1",
+      "display_name": "Pokemon Gen 1",
+      "version": "1.0.0",
+      "description": "Cries of the original 151 Pokemon from Generation 1",
+      "author": {
+        "name": "devauxbr",
+        "github": "devauxbr"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 151,
+      "total_size_bytes": 2057299,
+      "source_repo": "devauxbr/pokemon-gen1",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "12674b3d8cee14ab517674327672539b1d42cfe3689e8d71e6bb06388b97f60f",
+      "tags": [
+        "gaming",
+        "pokemon",
+        "nintendo",
+        "gen1"
+      ],
+      "preview_sounds": [
+        "pikachu.ogg",
+        "charizard.ogg"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
     },
     {
       "name": "postal2_pl",

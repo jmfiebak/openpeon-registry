@@ -3154,6 +3154,44 @@
       "updated": "2026-03-16"
     },
     {
+      "name": "ds1-carvings",
+      "display_name": "Dark Souls – Carvings",
+      "version": "1.0.0",
+      "description": "Gough's infamous Carvings from Dark Souls as sound effects for various events.",
+      "author": {
+        "name": "jmfiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 5,
+      "total_size_bytes": 593920,
+      "source_repo": "jmfiebak/openpeon-carvings-sound-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "c537e91b248aae3caea92046e506d89d046131234ab916250317f49edc0d5b43",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "fantasy",
+        "carvings"
+      ],
+      "preview_sounds": [
+        "CarvingHello.mp3",
+        "CarvingHelpMe.mp3"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
       "name": "ds1-solaire",
       "display_name": "Dark Souls – Solaire of Astora",
       "version": "1.0.2",

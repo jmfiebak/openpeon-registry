@@ -3193,6 +3193,49 @@
       "updated": "2026-03-25"
     },
     {
+      "name": "ds1-siegmeyer",
+      "display_name": "Dark Souls – Siegmeyer of Catarina",
+      "version": "1.0.0",
+      "description": "A sound pack with a big heart and bigger armor.",
+      "author": {
+        "name": "jmfiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam",
+        "user.end"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 70,
+      "total_size_bytes": 7077888,
+      "source_repo": "jmfiebak/openpeon-siegmeyer-sound-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "db5dfff51c64f392a7d499dbf455aa2b84ad97f19610d48ee3fcddc3133bd683",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "fantasy",
+        "siegmeyer",
+        "knight"
+      ],
+      "preview_sounds": [
+        "SiegmeyerHm2.mp3",
+        "SiegmeyerICurseMyInability.mp3"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
       "name": "ds1-solaire",
       "display_name": "Dark Souls – Solaire of Astora",
       "version": "1.0.2",

@@ -3156,7 +3156,7 @@
     {
       "name": "ds1-carvings",
       "display_name": "Dark Souls – Carvings",
-      "version": "1.0.3",
+      "version": "1.0.0",
       "description": "Gough's infamous carvings from Dark Souls as sound effects for various events.",
       "author": {
         "name": "jmfiebak",
@@ -3174,11 +3174,11 @@
       "language": "en",
       "license": "MIT",
       "sound_count": 6,
-      "total_size_bytes": 872448,
+      "total_size_bytes": 1142784,
       "source_repo": "jmfiebak/openpeon-carvings-sound-pack",
-      "source_ref": "v1.0.3",
+      "source_ref": "v1.0.4",
       "source_path": ".",
-      "manifest_sha256": "eea7a4d9285e37b874c51d340c2ccc10a8c1d32f275e8a340088dd460652346e",
+      "manifest_sha256": "a216a24855af32cbeff983ac4c45c545e67e2d9b542f49fe2c3b1b4647809529",
       "tags": [
         "gaming",
         "dark souls",
@@ -3186,7 +3186,7 @@
         "carvings"
       ],
       "preview_sounds": [
-        "CarvingsHello.mp3",
+        "CarvingsImSorry.mp3",
         "CarvingsHelpMe.mp3"
       ],
       "added": "2026-03-25",
